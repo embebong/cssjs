@@ -114,7 +114,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://www.midaco.com.vn' target='_blank'><img src='https://lh3.googleusercontent.com/-PtnZvoH8VJ4/Vvt_ilT5f7I/AAAAAAAAAqY/SDeyzgt0jVA_gadWGBJO1_y7ZseO1HRnwCCo/s800-Ic42/nha-bep-mau-trang.jpg' width='500px'/>MIDACO</a> Phân phối toàn quốc <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://www.midaco.com.vn' target='_blank'><img src='https://lh3.googleusercontent.com/-PtnZvoH8VJ4/Vvt_ilT5f7I/AAAAAAAAAqY/SDeyzgt0jVA_gadWGBJO1_y7ZseO1HRnwCCo/s800-Ic42/nha-bep-mau-trang.jpg' width='500px'/>Phụ kiện tủ bếp MIDACO</a> Phân phối toàn quốc, bảo hành 24 tháng <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
