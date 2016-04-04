@@ -134,7 +134,7 @@ blockquote cite:before { content: "\2014 \2009"; }
 .footer{float:left;width:31%;margin:10px}
 .footer .widget{margin-bottom:30px}
 .footer h2 {
-    background: -webkit-linear-gradient(to left, #5CA2EA, #016EDE); /*Safari 5.1-6*/
+    background: -webkit-linear-gradient(to left, rgba(0, 112, 184, 0.55), rgb(0, 112, 184)); /*Safari 5.1-6*/
 	background: -o-linear-gradient(left,rgba(255, 255, 255, 0),rgba(0, 153, 180, 1)); /*Opera 11.1-12*/
 	background: -moz-linear-gradient(left,rgba(255, 255, 255, 0),rgba(0, 153, 180, 1)); /*Fx 3.6-15*/
 	background: linear-gradient(to left, rgba(255, 255, 255, 0), rgba(180, 0, 0, 1)); /*Standard*/
